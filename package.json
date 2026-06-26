@@ -1,0 +1,12 @@
+{
+  "name": "express-8080-sample",
+  "version": "1.0.0",
+  "description": "Simple Express server running on port 8080",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
